@@ -8,3 +8,10 @@ elif age < 18:
     print("The ticket costs 7$")
 else:
     print("The ticket costs 10$")
+
+#Exercise 2
+number = int(input("Enter a number: "))
+if number % 2 == 0:
+    print("The number is even.")
+else:
+    print("The number is odd.")
