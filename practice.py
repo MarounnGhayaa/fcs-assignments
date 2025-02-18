@@ -3,11 +3,11 @@ age = int(input("Enter your age: "))
 if age < 5:
     print("The ticket is for free")
 elif age < 10:
-    print("The ticket costs 5$")
+    print("The ticket costs 3$")
 elif age < 18:
-    print("The ticket costs 7$")
+    print("The ticket costs 5$")
 else:
-    print("The ticket costs 10$")
+    print("The ticket costs 7$")
 
 #Exercise 2
 number = int(input("Enter a number: "))
